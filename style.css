@@ -1,0 +1,295 @@
+html{
+  margin: 0;
+  padding: 0;
+  width: 1260px;
+  height: 940px;
+  background-color: white;
+ 
+}
+
+.bg{
+  margin: 0;
+  padding: 0;
+  width: 1260px;
+  height: 880px;
+  background-color: #edf2c5;
+  
+  }
+
+
+.VegetablesTitle {
+    display: inline-block;
+    margin-top: 53px;
+    margin-left: 160px;
+    margin-right: 468px;
+    width: 271px;
+    height: 42px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.82;
+    color: #778a50;
+   
+    }
+
+   img.btn_facebook {
+    width: 25px;
+    height: 25px;
+   
+  }
+  
+  img.btn_instagram {
+      width: 25px;
+      height: 25px;
+      margin-right: 10px;
+    }
+  
+  .line_login {
+      width: 1px;
+      height: 25px;
+      margin: 0 10px 0px 0px;
+      background-color: #778a50;
+      display: inline-block;
+      
+    }
+  
+.loginandjoin{
+    display: inline-block;
+    margin-bottom: 17px;
+}
+    .LOGIN{
+      text-decoration: none;
+       width: 60px;
+       height: 25px;
+       font-family: Arial;
+       font-size: 14px;
+       font-weight: bold;
+       font-style: normal;
+       font-stretch: normal;
+       text-align: center;
+       border: solid 1px  #778a50;
+       color: #778a50 ;
+       border-radius: 3px;
+      padding: 5px 7px;
+      margin-top: 0;
+      margin-bottom: 17px;
+      margin-left: 10px;  
+     }
+      
+
+    .JOIN{
+      text-decoration: none;
+        width: 50px;
+        height: 25px;
+        font-family: Arial;
+       font-size: 14px;
+       font-weight: bold;
+       font-style: normal;
+       font-stretch: normal;
+       text-align: center;
+       border: solid 1px  #778a50;
+       color: #778a50 ;
+       border-radius: 3px;
+       padding: 5px 7px;
+       margin-top: 0;
+       margin-bottom: 17px;
+       margin-left: 10px;
+ 
+      }
+
+.nav_box{
+  display: inline-block;
+  margin-left: 160px;
+  margin-bottom: 20px;
+  width: 940px;
+  height: 44px;
+  border-radius: 3px;
+  background-color: #778a50;
+  display: inline-block;
+  text-align: left;
+  line-height: 2.55;
+  margin-top: 5px;
+}
+
+.HOME{
+  padding: 0;
+  margin: 0;
+  width: 51px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  color: #edf2c5;
+  margin-left: 30px;
+  text-decoration: none;
+}
+
+.ABOUT_US{
+  width: 80px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  color: #edf2c5;
+  margin-left: 60px;
+  text-decoration: none;
+}
+
+.VEGETABLES{
+  width: 98px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  color: #edf2c5;
+  margin-left: 60px;
+  text-decoration: none;
+}
+
+.ONLINE{
+  width: 56px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  color: #edf2c5;
+  margin-left: 60px;
+  text-decoration: none;
+}
+
+.CONTACT{
+  width: 69px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  color: #edf2c5;
+  margin-left: 60px;
+  text-decoration: none;
+}
+
+
+.img_main_pumpkin{
+  margin-left: 160px;
+}
+
+.aside_1{
+  display: inline-block;
+  margin-left: 160px;
+  margin-bottom: 0;
+}
+
+.v2{
+  width: 444px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+  margin-top: 30px;
+  display: inline-block;
+  margin-left: 0px;
+  margin-bottom: 15px;
+
+}
+
+.vegetables_aside{
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    color: #edf2c5;
+    margin-right: 316px;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+.photo{
+ display: flex;
+ justify-content: space-between;
+}
+
+.aside_2{
+  width: 444px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+  margin-top: 30px;
+  display: inline-block;
+  margin-right: 160px;
+  margin-bottom: 15px;
+ 
+}
+
+.contact_aside{
+  width: 69px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  color: #edf2c5;
+  margin-right: 316px;
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-bottom:12px;
+  
+  
+}
+
+.textbox{
+  width: 444px;
+    height: 140px;
+    background-color: #f7fbda;
+    margin-top: 15px;
+    margin-right: 160px;
+    margin-bottom: 35px;
+    display: inline-block;
+}
+
+.body_contact_text{
+    
+    font-family: Arial;
+    font-size: 12px;
+    line-height: 1.25;
+    text-align: left;
+    color: #7d7d7d;
+    margin: 15px 15px 0px 15px;
+}
+
+.line_contact_text{
+  height: 1px;
+  width: 414px;
+  background-color: #7d7d7d;
+   margin-left: 15px;
+}
+
+.email_phone_text{
+  width: 197px;
+  height: 35px;
+  font-family: Arial;
+  font-size: 12px;
+  line-height: 1.75;
+  text-align: left;
+  color: #7d7d7d;
+  margin-top: 15px;
+  margin-left: 15px;
+  }
+
+footer{
+  width: 1260px;
+  height: 60px;
+  background-color: #778a50;
+}
+
+.footer_text{
+   width: 301px;
+    height: 14px;
+    font-family: Arial;
+    font-size: 12px;
+    display: inline-block;
+    line-height: 3;
+    color: #edf2c5;
+    margin-left: 480px;
+}
